@@ -8,7 +8,6 @@ components:
     mountSources: true
     sourceMapping: /project
   name: runtime
-  version: 1.0.0
 schemaVersion: 2.0.0
 starterProjects:
 - git:
